@@ -1,0 +1,80 @@
+{
+
+"resultados":[
+    {
+        "Tarjeta":1,
+        "nombre": "Goku niño",
+        "descripcion": "Un pequeño con cola tiene una habilidad innata para convertirse en un mono gigante sin capacidad de razonamiento y que destroza todo lo que esté a su paso.",
+        "foto":"https://i.pinimg.com/564x/a2/93/a9/a293a963f85aed4bffb8af239d2143e6.jpg"
+    },
+   
+    {
+        "Tarjeta":2,
+        "nombre":"Vegeta",
+        "descripcion": "Vegeta es el hijo mayor del Rey Vegeta, lo que le convierte en parte de la realeza, concretamente Príncipe de los Saiyajins. Este pertenece a la raza alienígena Saiyajin",
+        "foto":"https://i.pinimg.com/736x/97/cb/9e/97cb9ef25332640ce73df9389486450c.jpg"
+    },
+    {
+        "Tarjeta":3,
+        "nombre":"Gohan",
+        "descripcion": "Es el primer hijo de Son Gokū y Chi-Chi, hermano mayor de Son Goten, esposo de Videl, con quien tiene una hija llamada Pan. Es mitad Saiyajin y mitad humano",
+        "foto":"https://i.pinimg.com/564x/91/d8/33/91d8338d0d9b94299eaf9f88b1b48160.jpg"
+    },
+    {
+        "Tarjeta":4,
+        "nombre":"Goku fase 3",
+        "descripcion": "Es la tercera forma de Super Saiyajin, el sucesor de la primera y segunda transformación. Son Goku fue el primero en lograr la forma, durante su entrenamiento de siete años en el otro mundo",
+        "foto":"https://i.pinimg.com/564x/73/df/82/73df82721fba40f6971223a673a1f788.jpg"
+    },
+    {
+        "Tarjeta":5,
+        "nombre":"Goku fase 4",
+        "descripcion": "cuando Goku se encuentra luchando contra Vegeta-Baby y, sobrepasado por su poder, primero consigue transformarse en el Gran Simio Dorado y después en Super Saiyan 4",
+        "foto":"https://i.pinimg.com/564x/ce/69/e9/ce69e9611375bc6ee4c002dcea715a2d.jpg"
+    },
+    {
+        "Tarjeta":6,
+        "nombre":"Bulma",
+        "descripcion": "Es hija del Dr. Brief y su esposa Panchy, hermana menor de Tights y una gran amiga de Son Goku con quien inicia la búsqueda de las Esferas del Dragón",
+        "foto":"https://i.pinimg.com/564x/eb/b9/c4/ebb9c4054920d86c22d791be5f796869.jpg"
+    },
+    {
+        "Tarjeta":7,
+        "nombre":"Mr. Satan",
+        "descripcion": "Es un extravagante artista marcial que se convierte en un héroe de renombre mundial después de los juegos de Cell",
+        "foto":"https://i.pinimg.com/564x/96/d1/86/96d186cb5ad36bd37360082e2a76205a.jpg"
+    },
+    {
+        "Tarjeta":8,
+        "nombre":"mayinbu",
+        "descripcion": "fue creado por Babidi quien tenía intenciones de conquistar el mundo y para ello cuidó en todo momento el huevo donde se incubaba a Majin Buu.",
+        "foto":"https://i.pinimg.com/564x/03/b7/20/03b72045ce49d10cff9e7d4977d57f6b.jpg"
+    },
+    {
+        "Tarjeta":9,
+        "nombre":"Mayinbu Bueno",
+        "descripcion": "es el liberado en la tierra por Babidi, es gordo y tiene una personalidad infantil, esto se debe a haber absorbido al Dai Kaiō Shin; debido a que este era un ser bondadoso, y un elemento esencial del Boo original era la maldad.",
+        "foto":"https://i.pinimg.com/564x/14/7e/7e/147e7ee1dcface25997f18e6dda7a69f.jpg"
+    }
+]
+    }
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
